@@ -1,4 +1,5 @@
 # mojerepozytorium
 Moje pierwsze repozytorium Git
-Po raz pierwszy tu piszę
+To jest już druga aktualizacja
 Potrzebuję dowiedzieć się o co chodzi z tym Gitem
+
